@@ -9,7 +9,7 @@
      },
      "PASSWORD": {
        "description": "username.",
-       "value": "ss123456"
+       "value": "abcdef"
      }
   },
   "stack": "container",
